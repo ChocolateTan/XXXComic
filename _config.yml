@@ -25,7 +25,7 @@ facebook_username:  DonDonDonTam
 instagram_username:  dondontam
 
 # Outputting
-paginate: 6
+paginate: 100
 paginate_path: "/comic/page:num"
 #paginate_path: "comic/page:num"
 
