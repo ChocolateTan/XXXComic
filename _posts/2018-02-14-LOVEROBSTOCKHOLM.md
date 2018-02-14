@@ -3,8 +3,7 @@ layout:     post
 title:      "LOVEROBSTOCKHOLM"
 author:     "作者：LOVE-ROB-STOCKHOLM"
 intro:      "晴濑浩贵在《异星少女》之后新作，一定给我全新的体验"
-date:       "2018-02-14 12:17:09"
-categories: "其他"
+date:       "2018-02-14 16:56:45"
 tags:       "STOCKHOLM"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002703appline.png"
 ---

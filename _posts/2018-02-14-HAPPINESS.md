@@ -3,8 +3,7 @@ layout:     post
 title:      "HAPPINESS"
 author:     "作者：押见修造"
 intro:      "在青白的满月之时，少女屹立在梦的夜幕之中……"
-date:       "2018-02-14 12:17:11"
-categories: "其他"
+date:       "2018-02-14 16:56:48"
 tags:       "HAPPINESS"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002160appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "ComicGirls"
 author:     "作者：はんざわかおり"
 intro:      "文芳社的女子宿舍来了个萌萌的小loli漫画家！"
-date:       "2018-02-14 12:17:18"
-categories: "其他"
+date:       "2018-02-14 16:57:00"
 tags:       "Girls"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001276appline.png"
 ---

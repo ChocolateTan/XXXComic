@@ -3,8 +3,7 @@ layout:     post
 title:      "深渊融接BIORGTRINITY"
 author:     "作者：大暮维人 , 舞城王太郎"
 intro:      "糟糕，我真的会因为太喜欢榎本芙三步喜欢到挂掉。双手掌心出现洞穴、吸入喜欢的东西并与其融合的疾病──「生化虫」。在这个构筑於危险平衡上的世界，恋爱与青春会以什麽样貌呈现？令人意外的两人所描绘的前卫青春群像剧"
-date:       "2018-02-14 12:17:17"
-categories: "融接"
+date:       "2018-02-14 16:56:59"
 tags:       "TRINITY"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002934appline.png"
 ---

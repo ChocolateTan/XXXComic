@@ -3,8 +3,7 @@ layout:     post
 title:      "MURCIÉLAGO-蝙蝠-（蝙蝠杀手）"
 author:     "作者：よしむらかな"
 intro:      "为了对抗超凶恶犯罪者，用异常手段选拔出的“公家的”大量杀人者，红守黑湖。她的监视官，交通工具狂热者同事，屠樱雏子。被善恶两方拉扯的暴力？行动从这里开始！"
-date:       "2018-02-14 12:17:11"
-categories: "蝙蝠"
+date:       "2018-02-14 16:56:49"
 tags:       "）"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002145appline.png"
 ---

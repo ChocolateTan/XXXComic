@@ -3,8 +3,7 @@ layout:     post
 title:      "LittleBusters"
 author:     "作者：笹桐ゆうや"
 intro:      "主人公直枝理树幼时父母双亡，陷入绝望之中。 而将他从中拯救出来的则是名为Little Busters 的少年们（枣恭介 井ノ原真人 宫沢谦吾 枣铃）。他们领他走到外面的世界，带他学坏，然后不断接受惩罚。虽然他们像傻瓜一样且老是被人报複，但过得非常快乐。与他们在一起，寂寞和痛苦终于不複存在了。然后时间飞逝，他们进入了同一所学园，今年是二年级生。今天他们也在恭介的提案下，继续做著傻瓜，奔跑在青春之下....."
-date:       "2018-02-14 12:17:15"
-categories: "其他"
+date:       "2018-02-14 16:56:55"
 tags:       "Busters"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003171appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "BeOurGuest"
 author:     "作者：あづまゆき"
 intro:      "小泉花铃与柿原玲二一对青梅竹马的高中生，但境遇各不相同，父母双亡的玲二，却在花铃母亲的教导下，做了一手好的料理，而本应继承家里店面的花铃在料理方面却没什么天赋。.."
-date:       "2018-02-14 12:17:09"
-categories: "其他"
+date:       "2018-02-14 16:56:45"
 tags:       "Guest"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002583appline.png"
 ---

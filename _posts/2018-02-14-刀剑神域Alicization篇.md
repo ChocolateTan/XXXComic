@@ -3,8 +3,7 @@ layout:     post
 title:      "刀剑神域Alicization篇"
 author:     "作者：山田孝太郎  川原砾"
 intro:      "桐人在现实中脑部损伤，被用潜行装置送入under world进行治疗。 在这里他失去了现实生活中的记忆用相同的名字桐人和青梅竹马的尤吉欧和爱丽丝一起成长。"
-date:       "2018-02-14 12:17:19"
-categories: "神域"
+date:       "2018-02-14 16:57:03"
 tags:       "篇"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004354appline.png"
 ---

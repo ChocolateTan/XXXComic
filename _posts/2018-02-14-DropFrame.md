@@ -3,8 +3,7 @@ layout:     post
 title:      "DropFrame"
 author:     "作者：成家慎一郎"
 intro:      "高中生、暑假、邂逅。对我们5人来说，这将是一个最棒又最糟的暑假。将笨拙的青春，编织为现实。纯洁而又酸甜的故事！！"
-date:       "2018-02-14 12:17:15"
-categories: "其他"
+date:       "2018-02-14 16:56:56"
 tags:       "Frame"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003232appline.png"
 ---

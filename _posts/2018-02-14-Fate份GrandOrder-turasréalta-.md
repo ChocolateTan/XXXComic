@@ -3,8 +3,7 @@ layout:     post
 title:      "Fate份GrandOrder-turasréalta-"
 author:     "作者：TYPE-MOON  カワグチタケシ"
 intro:      "这是把人理存续，赌上的圣杯战争。少年遇到了命运的邂逅"
-date:       "2018-02-14 12:17:12"
-categories: "其他"
+date:       "2018-02-14 16:56:50"
 tags:       "-"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004247appline.png"
 ---

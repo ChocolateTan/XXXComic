@@ -3,8 +3,7 @@ layout:     post
 title:      "thenewgate"
 author:     "作者：三輪ヨシュキ"
 intro:      "在几万人被卷入的在线死亡游戏游戏「THE NEW GATE」(这......)，最老玩家·辛格的活跃，终于解放的时候，迎接。但是，在最后的BOSS打倒后想要逃离的瞬间，突然未知的光芒照射，被传送到游戏中 500年后的世界！最强的玩家的新的无双战斗传说开幕！"
-date:       "2018-02-14 12:17:18"
-categories: "其他"
+date:       "2018-02-14 16:57:01"
 tags:       "gate"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1000531appline.png"
 ---

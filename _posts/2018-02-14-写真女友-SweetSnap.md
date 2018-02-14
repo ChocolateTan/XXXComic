@@ -3,8 +3,7 @@ layout:     post
 title:      "写真女友-SweetSnap"
 author:     "作者：柚木N’"
 intro:      "就读于光河学园的主人公收到父亲送的高级照相机之后，决心让不变的日常生活发生变化。通过摄影，他能顺利拉近和青梅竹马新见遥佳的距离吗？柚木N’老师的上岸作，改编自PSP游戏《写真女友》的纯爱故事开始了哦~~！"
-date:       "2018-02-14 12:17:16"
-categories: "女友"
+date:       "2018-02-14 16:56:57"
 tags:       "Snap"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003311appline.png"
 ---

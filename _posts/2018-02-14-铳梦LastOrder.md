@@ -3,8 +3,7 @@ layout:     post
 title:      "铳梦LastOrder"
 author:     "作者：木城幸人(木城雪户)"
 intro:      "《铳梦 Last Order》并不是补充性质的外传，而是《铳梦》的正式续篇。确切的讲，这是一个新的故事，而不是延续铳梦第9卷最后，加里变成一棵树阻止了沙莱姆的坠落后的故事。这个新故事的脚本是基于PS上的RPG游戏《铳梦 火星的回忆》中宇宙篇的，故事的舞台是宇宙。"
-date:       "2018-02-14 12:17:11"
-categories: "其他"
+date:       "2018-02-14 16:56:49"
 tags:       "Order"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004267appline.png"
 ---

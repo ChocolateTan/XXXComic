@@ -3,8 +3,7 @@ layout:     post
 title:      "BABABABABuddy"
 author:     "作者：TALI"
 intro:      "人渣老师×杀手高中生 悬赏杀人合法化之后，只要持有赏金执照就能合法杀人！老师当腻了的模范型人渣乌丸独步，恃强凌弱，欺负班上的弱气学生赤羽幸太，却在报考赏金执照时碰到身为面试官的赤羽！！疾走感满载的校园剧开幕——"
-date:       "2018-02-14 12:17:11"
-categories: "其他"
+date:       "2018-02-14 16:56:49"
 tags:       "BABABABABuddy"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004321appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "ArgateOnline"
 author:     "作者：玲衣  桐野纺"
 intro:      "武士勇闯异世界！豪爽的幻想战斗开幕！"
-date:       "2018-02-14 12:17:18"
-categories: "其他"
+date:       "2018-02-14 16:57:01"
 tags:       "Online"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004020appline.png"
 ---

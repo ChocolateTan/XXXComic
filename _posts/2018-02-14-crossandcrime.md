@@ -3,8 +3,7 @@ layout:     post
 title:      "crossandcrime"
 author:     "作者：叶月京"
 intro:      "不是说这女的先开始是喜欢并倾慕男主，男主也算高富帅了。但是俩人关系没有更进一步。男主好像也不是太把女主当回事。然后黄毛杀出，爱上女主，但爱的方式很那个，就是各种强奸+啪啪啪。后来因为黄毛的缘故女主还被几个肌肉男群P到高潮。其实这时女主已经被干的神经质分不出是非了。"
-date:       "2018-02-14 12:17:18"
-categories: "其他"
+date:       "2018-02-14 16:57:00"
 tags:       "crime"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1000728appline.png"
 ---

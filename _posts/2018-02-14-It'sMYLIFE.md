@@ -3,8 +3,7 @@ layout:     post
 title:      "It'sMYLIFE"
 author:     "作者：成田芋虫"
 intro:      "一个大叔从神圣骑士团退役了想过一种清净的生活，于是他在很偏远的地方买了个小房子。 可刚要去住的时候一个小萝莉从天而降，她是个魔女，本想去找邪神学习，结果看错地图来到了大叔这里，然后大叔一番心里纠结还是决定装作邪神留下了萝莉，然后两个人过上了没羞没臊的生活"
-date:       "2018-02-14 12:17:19"
-categories: "其他"
+date:       "2018-02-14 16:57:02"
 tags:       "LIFE"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002026appline.png"
 ---

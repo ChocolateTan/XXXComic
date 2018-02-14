@@ -3,8 +3,7 @@ layout:     post
 title:      "theriotgirl"
 author:     "作者：mako"
 intro:      "不良少女鲛岛乙女因为接触了少女漫画而打算转变为普通的高中生，她是否能如愿呢？"
-date:       "2018-02-14 12:17:10"
-categories: "其他"
+date:       "2018-02-14 16:56:47"
 tags:       "girl"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002242appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "战姬绝唱Symphogear"
 author:     "作者：上松范康 金子彰史 吉井ダン"
 intro:      "「Symphogear系统」——那是人类能够抵抗未知的敌人Noise的唯一且绝对的王牌，所开发出的异端技术。而装备着Symphogear，从谁也不知晓的Noise手中保护人类的，就是数名青涩的少女。立花响，当她装备上Symphogear的时候，命运的齿轮便开始转动了……！！"
-date:       "2018-02-14 12:17:12"
-categories: "绝唱"
+date:       "2018-02-14 16:56:50"
 tags:       "Symphogear"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1000258appline.png"
 ---

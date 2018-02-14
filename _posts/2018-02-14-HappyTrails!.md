@@ -3,8 +3,7 @@ layout:     post
 title:      "HappyTrails!"
 author:     "作者：荒井チェリー（荒井樱桃）"
 intro:      "关于在学校创建魔法便利屋的四格搞笑漫画《Happy Trails!》"
-date:       "2018-02-14 12:17:16"
-categories: "其他"
+date:       "2018-02-14 16:56:58"
 tags:       "!"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001345appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "黑炬BlackTorch"
 author:     "作者：高木勇志(タカキツヨシ)"
 intro:      "以短篇《Freaks怪物们》博得大好评的俊英SQ初登场！ 讲述能够与动物对话的忍者少年，和在后山捡到的物怪黑猫之间互相拯救的故事。最后他们一起成为了公务员拯救世界。"
-date:       "2018-02-14 12:17:09"
-categories: "其他"
+date:       "2018-02-14 16:56:46"
 tags:       "Torch"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003815appline.png"
 ---

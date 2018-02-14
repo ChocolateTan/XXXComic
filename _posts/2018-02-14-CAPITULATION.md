@@ -3,8 +3,7 @@ layout:     post
 title:      "CAPITULATION"
 author:     "作者：けもこも屋"
 intro:      "没时间解释了,快上车。"
-date:       "2018-02-14 12:17:15"
-categories: "其他"
+date:       "2018-02-14 16:56:56"
 tags:       "CAPITULATION"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001334appline.png"
 ---

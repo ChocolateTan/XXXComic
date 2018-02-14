@@ -3,8 +3,7 @@ layout:     post
 title:      "GoldenTime"
 author:     "作者：苏募ロウ"
 intro:      "一男一女在男厕单间斗争的故事"
-date:       "2018-02-14 12:17:18"
-categories: "其他"
+date:       "2018-02-14 16:57:00"
 tags:       "Time"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001837appline.png"
 ---

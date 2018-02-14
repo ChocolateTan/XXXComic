@@ -3,8 +3,7 @@ layout:     post
 title:      "DCDDiamondCutDiamond"
 author:     "作者：田口ケンジ"
 intro:      "９名少男少女在人气节目「超能力少年」中展露了他们所拥有的超能力。 然而现场立即转播节目却因為发生意外死亡事件而被迫中断， 但在7年之后，发生了当时参加节目的其中一个人被杀事件。 虽然黑须繫介与执行夕闇共同展开了追查，但是结果将会如何呢呢……!? 超能者们就此展开了倖存者探查行动"
-date:       "2018-02-14 12:17:09"
-categories: "其他"
+date:       "2018-02-14 16:56:45"
 tags:       "Diamond"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002606appline.png"
 ---

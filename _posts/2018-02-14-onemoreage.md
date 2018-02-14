@@ -3,8 +3,7 @@ layout:     post
 title:      "onemoreage"
 author:     "作者：吉川英朗"
 intro:      "80岁高龄的单身老人因为吃了两个可爱的养女的祝寿大餐差点GG了。 不过与此同时却返老还童了。返老还童的老人家应该去做什么呢，肯定是搭讪美女补偿自己的青葱啦~~~吉川大师爆笑喜剧新连载请不要错过哦"
-date:       "2018-02-14 12:17:12"
-categories: "其他"
+date:       "2018-02-14 16:56:51"
 tags:       "age"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001757appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "Charlotte四格漫画超越青春吧"
 author:     "作者：P.A.WORKS"
 intro:      "各自拥有微妙的特殊能力的 星之海学院的学生会成员超越青春 请不要错过情绪高涨的“青春”一幕♪"
-date:       "2018-02-14 12:17:18"
-categories: "青春"
+date:       "2018-02-14 16:57:01"
 tags:       "青春"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1000295appline.png"
 ---

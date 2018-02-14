@@ -3,8 +3,7 @@ layout:     post
 title:      "魔法少女Lyrical奈叶～vivid～"
 author:     "作者：藤真拓哉  都筑真纪"
 intro:      "衔接《魔法少女奈叶StrikerS》5年后的时间段，讲述SS中奈叶与菲特收养的圣王女儿——薇薇欧，其成长的故事。"
-date:       "2018-02-14 12:17:09"
-categories: "魔法"
+date:       "2018-02-14 16:56:46"
 tags:       "～"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004180appline.png"
 ---

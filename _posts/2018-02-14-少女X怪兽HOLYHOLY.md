@@ -3,8 +3,7 @@ layout:     post
 title:      "少女X怪兽HOLYHOLY"
 author:     "作者：菅原キく"
 intro:      "圣艾尔蕾希安女学院的女学生们 乘坐的豪华客船在远海海滩发生触礁事故。她们漂流到一座孤岛，而在那里等待著她们的是……"
-date:       "2018-02-14 12:17:14"
-categories: "怪兽"
+date:       "2018-02-14 16:56:55"
 tags:       "HOLY"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003273appline.png"
 ---

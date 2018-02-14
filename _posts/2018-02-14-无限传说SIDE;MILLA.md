@@ -3,8 +3,7 @@ layout:     post
 title:      "无限传说SIDE;MILLA"
 author:     "作者：hu-ko"
 intro:      "无限传说 SIDE;MILLA漫画 ，《无限传说》是系列史上首次采用双主角、双剧情进行游戏的作品，所以漫画版也将对应地从两位主角的视线出发进行连载。漫画将会分开两部来连载，其一是由漫画家hu-ko绘画、以女主角米拉为视点来展开剧情的《无限传传说 SIDE;MILLA》，另一部由漫画家佐藤夕子绘画、以男主角裘德为视点来展开剧情的《无限传说 SIDE;JUDE》。"
-date:       "2018-02-14 12:17:11"
-categories: "无限"
+date:       "2018-02-14 16:56:48"
 tags:       "MILLA"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1000423appline.png"
 ---

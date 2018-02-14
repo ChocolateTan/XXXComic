@@ -3,8 +3,7 @@ layout:     post
 title:      "Bocchiman"
 author:     "作者：榊原宗々"
 intro:      "从小能够看到幽灵和神怪的田辺，因为被狐妖附体攻击同学，而被妹妹叫做“病辺”，在学校被孤立。 在收到一封“救救我”的短信之后，他的人生从此改变—— 原想成为拯救大众的英雄，却成为世界上的最后一人！与妹妹的幽灵同行，开始孤独的旅程吧，田辺！"
-date:       "2018-02-14 12:17:09"
-categories: "其他"
+date:       "2018-02-14 16:56:45"
 tags:       "Bocchiman"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002674appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "crystaldays"
 author:     "作者：小林拓己"
 intro:      "乡下出身的贫困大学生衫作裕太，刚一入学便遇到了两个女孩子。 貌美如花，风姿绰约，也曾经出演过电视节目的三年级学生·榆崎琉璃香。 还有第一印象十分平分，但仔细看的话却很可爱的未来漫画家的同级生·小松乃梨子。 凭着对琉璃香一见钟情的气势，加入了同一个社团的衫作.及羞涩又酸甜的青春恋爱喜剧第1弹！！"
-date:       "2018-02-14 12:17:14"
-categories: "其他"
+date:       "2018-02-14 16:56:54"
 tags:       "days"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002600appline.png"
 ---

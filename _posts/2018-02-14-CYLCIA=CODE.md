@@ -3,8 +3,7 @@ layout:     post
 title:      "CYLCIA=CODE"
 author:     "作者：大森葵"
 intro:      "一直身为优秀哥哥附属品的彼方穿越到游戏，意外性转的他作为她，又从游戏穿越回现实世界。"
-date:       "2018-02-14 12:17:16"
-categories: "其他"
+date:       "2018-02-14 16:56:58"
 tags:       "CODE"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001432appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "HungryJoker"
 author:     "作者：田畠裕基"
 intro:      "21XX年，有一种能够对生物细胞产生影响的病毒诞生于世，那就是0病毒。它令野生物发生爆发性进化。被自然的进化遗弃的人类陷入灭绝危机，人类仅存的希望是？世上最后一张王牌在他的脑袋里的是？"
-date:       "2018-02-14 12:17:14"
-categories: "其他"
+date:       "2018-02-14 16:56:54"
 tags:       "Joker"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004423appline.png"
 ---

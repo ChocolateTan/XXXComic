@@ -3,8 +3,7 @@ layout:     post
 title:      "东京暗鸦SwordofSong"
 author:     "作者：闾之耕平  久世兰"
 intro:      "由闾之耕平老师完全重新创作，基于原作的官方外传新连载！暗鸦们的支线故事，阴阳幻想漫画开幕！"
-date:       "2018-02-14 12:17:16"
-categories: "暗鸦"
+date:       "2018-02-14 16:56:58"
 tags:       "Song"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004122appline.png"
 ---

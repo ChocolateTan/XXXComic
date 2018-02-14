@@ -3,8 +3,7 @@ layout:     post
 title:      "GRANDEEKReeL"
 author:     "作者：桜瀬琥姫"
 intro:      "樱濑琥姫老师作为插画家和人设更知名一些,比如GUST的《炼金术士玛莉》.本作类似贰瓶勉的BIOMEGA，砍掉重练型...很久以前在WaniBooks出版社的ComicGUM(月刊)上连载，全1卷完结.2005年底于集英社的UltraJump上重新开始连载!那是把-从雷电中诞生出来的异型之剑,其刀身上-会闪耀出雷光-就如黑云般.格兰蒂克,暗黑的雷神-咏颂着世界的终结!"
-date:       "2018-02-14 12:17:12"
-categories: "其他"
+date:       "2018-02-14 16:56:50"
 tags:       "ReeL"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004248appline.png"
 ---

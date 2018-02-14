@@ -3,8 +3,7 @@ layout:     post
 title:      "魔卡少女樱-clearcard篇-"
 author:     "作者：CLAMP"
 intro:      "童年回归了！"
-date:       "2018-02-14 12:17:09"
-categories: "魔卡"
+date:       "2018-02-14 16:56:46"
 tags:       "-"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004353appline.png"
 ---

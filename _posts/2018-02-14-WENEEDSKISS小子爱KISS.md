@@ -3,8 +3,7 @@ layout:     post
 title:      "WENEEDSKISS小子爱KISS"
 author:     "作者：才谷ウメタロウ"
 intro:      "英作与奈津子是每个人都羡慕的甜蜜情侣！奈津子看着骑上水上摩托车的英作，青春真好！…可是，有个疑问围绕着英作。「英作其实是歌舞伎町传说中的『BEE』，而且『BEE』是女人的天敌，！」英作他果真是『BEE』吗？如果你的手机收到QR-CODE，那或许就是『BEE』传给你的邀请函呢…..."
-date:       "2018-02-14 12:17:13"
-categories: "其他"
+date:       "2018-02-14 16:56:52"
 tags:       "KISS"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003871appline.png"
 ---
