@@ -1,0 +1,36 @@
+/*
+ *设为fixed很关键，这样的话可以通过上面简洁的代码实现mask全覆盖，不用js计算
+ *z-index只对定位元素有效，且值越大越靠近用户
+ */
+#mask {
+    position: fixed;
+    top: 0; /*感谢评论区的nikolausliu提供该方法*/
+    right: 0;
+    bottom: 0;
+    left: 0;
+    /*
+    width:100%;
+    height:100%;/*感谢评论区的inzaghi提供该方法*/
+    z-index: 1;
+    opacity: 0.5;
+    -moz-opacity: 0.5; /*兼容ff*/
+    display: none;
+    background-color: #000;
+}
+
+/*
+        *弹窗主体样式
+        *采用负边距和fixed实现固定垂直居中，注意top/left的使用条件，z-index大于mask的
+        */
+#popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    /*margin: -100px 0 0 -200px; !*negative margin实现垂直居中*!*/
+    z-index: 2;
+    opacity: 1;
+    background-color: #ffffff;
+    display: none;
+}
