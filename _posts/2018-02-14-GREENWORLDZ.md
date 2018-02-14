@@ -3,8 +3,7 @@ layout:     post
 title:      "GREENWORLDZ"
 author:     "作者：大沢祐辅"
 intro:      "人类被巨型植物所控制，20XX年的某一天，植物突然袭击了东京的城市，活下来的人不得不躲在地铁站裏生活。但是随著食物危机的出现，人们不得不外出寻找食物……。这是一部围绕著主人公卜部彰展开的人类和植物的战争。"
-date:       "2018-02-14 12:17:11"
-categories: "其他"
+date:       "2018-02-14 16:56:49"
 tags:       "WORLDZ"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1000623appline.png"
 ---

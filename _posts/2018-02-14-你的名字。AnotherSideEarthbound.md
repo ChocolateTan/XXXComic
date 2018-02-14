@@ -3,8 +3,7 @@ layout:     post
 title:      "你的名字。AnotherSideEarthbound"
 author:     "作者：新海诚  加纳新太  中村ジュンヤ"
 intro:      "你的名字。Another Side:Earthbound漫画版，你的名字的另一个故事。"
-date:       "2018-02-14 12:17:20"
-categories: "其他"
+date:       "2018-02-14 16:57:05"
 tags:       "Earthbound"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003992appline.png"
 ---

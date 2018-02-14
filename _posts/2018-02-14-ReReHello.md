@@ -3,8 +3,7 @@ layout:     post
 title:      "ReReHello"
 author:     "作者：南塔子"
 intro:      "因父亲住院而代他处理便利屋工作的凛酱，意外的遇见了电车上出手助人的有着爽朗笑容的少年——"
-date:       "2018-02-14 12:17:17"
-categories: "其他"
+date:       "2018-02-14 16:56:59"
 tags:       "Hello"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002204appline.png"
 ---

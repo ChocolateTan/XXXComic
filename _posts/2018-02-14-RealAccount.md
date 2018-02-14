@@ -3,8 +3,7 @@ layout:     post
 title:      "RealAccount"
 author:     "作者：オクショウ"
 intro:      "以风靡全民的社群网站「真实帐号」为舞台，新世纪型死亡游戏即将开幕！ 　　沉迷网路的柏木当及其他一万个人，突然就被吸进了「真实帐号」的世界中！ 　　「跟随者变成0的话马上就会死」「里面的人死掉的话，跟随者也马上就会死」 　　在这种条件之下，他们向这个考验人与人之间联系的残酷「游戏」展开挑战！ 　　柏木当有办法顺利回到现实的世界吗…？"
-date:       "2018-02-14 12:17:12"
-categories: "其他"
+date:       "2018-02-14 16:56:50"
 tags:       "Account"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1000983appline.png"
 ---

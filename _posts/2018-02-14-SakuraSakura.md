@@ -3,8 +3,7 @@ layout:     post
 title:      "SakuraSakura"
 author:     "作者：もりしげ"
 intro:      "当樱花盛开便是1年级，勾起乡愁却是描写近未来！不知为何我们被称为最后的世代！前所未闻!!少子化恋爱喜剧!?"
-date:       "2018-02-14 12:17:17"
-categories: "其他"
+date:       "2018-02-14 16:56:59"
 tags:       "Sakura"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001547appline.png"
 ---

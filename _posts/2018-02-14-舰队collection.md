@@ -3,8 +3,7 @@ layout:     post
 title:      "舰队collection"
 author:     "作者：こうじ   ゆうじ"
 intro:      "舰队collection的搞笑四格漫画"
-date:       "2018-02-14 12:17:16"
-categories: "其他"
+date:       "2018-02-14 16:56:58"
 tags:       "collection"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001311appline.png"
 ---

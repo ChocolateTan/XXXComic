@@ -3,8 +3,7 @@ layout:     post
 title:      "战勇。MainQuest"
 author:     "作者：春原ロビンソン"
 intro:      "以一般漫画形式重绘战勇web版一章的新连载。"
-date:       "2018-02-14 12:17:11"
-categories: "其他"
+date:       "2018-02-14 16:56:49"
 tags:       "Quest"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003179appline.png"
 ---

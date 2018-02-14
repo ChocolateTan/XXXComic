@@ -3,8 +3,7 @@ layout:     post
 title:      "VANISHINGSTARLIGHT"
 author:     "作者：有坂あこ"
 intro:      "改编自sound horizon同名曲目的漫画。"
-date:       "2018-02-14 12:17:14"
-categories: "其他"
+date:       "2018-02-14 16:56:53"
 tags:       "STARLIGHT"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003570appline.png"
 ---

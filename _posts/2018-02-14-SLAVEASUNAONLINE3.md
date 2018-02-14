@@ -3,8 +3,7 @@ layout:     post
 title:      "SLAVEASUNAONLINE3"
 author:     "作者：ShAKe"
 intro:      "SLAVE ASUNA ONLINE 3"
-date:       "2018-02-14 12:17:13"
-categories: "其他"
+date:       "2018-02-14 16:56:53"
 tags:       " "
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1000640appline.png"
 ---

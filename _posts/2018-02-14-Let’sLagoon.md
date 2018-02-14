@@ -3,8 +3,7 @@ layout:     post
 title:      "Let’sLagoon"
 author:     "作者：冈崎武士"
 intro:      "醒来的时候，那里是一个无人岛！！然后就开始了两个人的生活。这里是男人的天堂吗？还是……。和可爱的女孩子单独相处，让人心跳的无人岛的生活！但是，在这个小岛上隐藏着巨大的秘密？！自从1997年发表的《妖精使》第4卷以来，岡崎武士老师久违了13年的漫画。"
-date:       "2018-02-14 12:17:19"
-categories: "其他"
+date:       "2018-02-14 16:57:02"
 tags:       "Lagoon"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1000892appline.png"
 ---

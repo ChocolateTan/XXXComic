@@ -3,8 +3,7 @@ layout:     post
 title:      "Fate份staynightHeaven’sFeel"
 author:     "作者：タスクオーナ  TYPE-MOON"
 intro:      "fate stay night游戏樱路线漫画化作品"
-date:       "2018-02-14 12:17:11"
-categories: "其他"
+date:       "2018-02-14 16:56:49"
 tags:       "Feel"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003433appline.png"
 ---

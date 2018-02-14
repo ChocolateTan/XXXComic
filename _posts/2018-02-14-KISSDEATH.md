@@ -3,8 +3,7 @@ layout:     post
 title:      "KISSDEATH"
 author:     "作者：叶恭弘"
 intro:      "2年前，一个被5名屌丝女血腥分尸的外星来客，冤魂附在了屌丝男身上，像已经变成白富美的五位少女展开复仇式逆袭，这次最少40话！ KISS＆CATCH!!爱情漫画名手·叶恭弘送上，SF爱情故事就此开幕！！"
-date:       "2018-02-14 12:17:16"
-categories: "其他"
+date:       "2018-02-14 16:56:57"
 tags:       "DEATH"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001296appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "路人女主的养成方法GIRLSSIDE"
 author:     "作者：守姬武士  丸户史明"
 intro:      "这是男主角安艺伦也所不知道发生在英梨梨与诗羽之间的故事。"
-date:       "2018-02-14 12:17:13"
-categories: "路人"
+date:       "2018-02-14 16:56:53"
 tags:       "SIDE"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003396appline.png"
 ---

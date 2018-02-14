@@ -3,8 +3,7 @@ layout:     post
 title:      "NowPlaying"
 author:     "作者：一二三"
 intro:      "在班上充当被欺负对象的东云东，遇到了不可思议的西园寺彩，随后他堕入了那个那一直‘存在’的充满假面的世界。充满狂气与欺骗的至极戏剧，现在开幕！"
-date:       "2018-02-14 12:17:15"
-categories: "其他"
+date:       "2018-02-14 16:56:56"
 tags:       "Playing"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003265appline.png"
 ---

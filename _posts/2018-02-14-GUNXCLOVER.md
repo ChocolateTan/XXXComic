@@ -3,8 +3,7 @@ layout:     post
 title:      "GUNXCLOVER"
 author:     "作者：山口ミコト , D.P"
 intro:      "《Trash黑街杀手》D.P 《最底限渣男 》山口ミコト。一个讲述多重人格战争狂的校园另类故事。"
-date:       "2018-02-14 12:17:14"
-categories: "其他"
+date:       "2018-02-14 16:56:54"
 tags:       "GUNXCLOVER"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001734appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "smokinparade"
 author:     "作者：片岡人生"
 intro:      "日常的终结，总是来得很突然，却又是必然……"
-date:       "2018-02-14 12:17:17"
-categories: "其他"
+date:       "2018-02-14 16:56:59"
 tags:       "parade"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001810appline.png"
 ---

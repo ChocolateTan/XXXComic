@@ -3,8 +3,7 @@ layout:     post
 title:      "便当zeroRoadtowitch"
 author:     "作者：柴乃棹人"
 intro:      "经历着平稳高中生活的枪水仙终于在总让人感到空虚的日常生活中寻找着自己想要做的事情。某一天，枪水仙在放学回家途中路过的超市里购买便当时突然受到了攻击。虽然被在场的前辈——金城优所救，但也同时知道了为荣誉而进行半价便当争夺战的『狼』的存在。『寒冰魔女』枪水仙是如何成为『狼』的呢！？描绘原作小说《便·当》之前的序幕物语！！"
-date:       "2018-02-14 12:17:13"
-categories: "其他"
+date:       "2018-02-14 16:56:53"
 tags:       "witch"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1000348appline.png"
 ---

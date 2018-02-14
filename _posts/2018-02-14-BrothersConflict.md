@@ -3,8 +3,7 @@ layout:     post
 title:      "BrothersConflict"
 author:     "作者：ことり野デス子  叶濑敦子"
 intro:      "，「BROTHERS CONFLICT」是由叶濑敦子企划并负责原案、水野隆志撰写脚本、Udajyo绘制插图的原创插图&小说企划，故事方面，主要讲述了因为父亲的再婚，所以就读高中的女主人公不仅拥有了很多兄弟，而且还与他们同住一个屋檐下。与兄弟们加深羁绊的同时，还开始培养“禁断”之恋。"
-date:       "2018-02-14 12:17:17"
-categories: "其他"
+date:       "2018-02-14 16:56:59"
 tags:       "Conflict"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001761appline.png"
 ---

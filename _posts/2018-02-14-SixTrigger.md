@@ -3,8 +3,7 @@ layout:     post
 title:      "SixTrigger"
 author:     "作者：TALI"
 intro:      "tali新漫画家新左派：在未来的世界，世界秩序无人维护，铁拳这种特殊兵器广泛应用，来用左手征服这个世界吧！"
-date:       "2018-02-14 12:17:11"
-categories: "其他"
+date:       "2018-02-14 16:56:48"
 tags:       "Trigger"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004210appline.png"
 ---

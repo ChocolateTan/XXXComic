@@ -3,8 +3,7 @@ layout:     post
 title:      "Summertimerendring"
 author:     "作者：田中靖规"
 intro:      "梦到青梅竹马，醒来一起身来了个拥抱洗面奶。"
-date:       "2018-02-14 12:17:18"
-categories: "其他"
+date:       "2018-02-14 16:57:00"
 tags:       "rendring"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004445appline.png"
 ---

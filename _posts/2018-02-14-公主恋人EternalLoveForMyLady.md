@@ -3,8 +3,7 @@ layout:     post
 title:      "公主恋人EternalLoveForMyLady"
 author:     "作者：しゅー"
 intro:      "述的是主人公与超名流大小姐们展开的优雅的恋爱冒险故事，父母在事故中双亡的有马哲平（旧姓小林）原本是普通的学生，有一天被突然出现的祖父而且还是日本经济界巨头有马一心收养，成为有马一族继承人的哲平从此迎来了与原来大相径庭的上流社会生活——豪华的住宅、精心挑选的仆人、入读日本首屈一指的贵族学校私立秀峰学园…"
-date:       "2018-02-14 12:17:17"
-categories: "恋人"
+date:       "2018-02-14 16:56:59"
 tags:       "Lady"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004227appline.png"
 ---

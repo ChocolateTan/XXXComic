@@ -3,8 +3,7 @@ layout:     post
 title:      "灵媒师东名Ascension"
 author:     "作者：冈野刚"
 intro:      "地狱老师的作者冈野刚的新作，故事以名作地狱老师中人气很高却出场不多的卖肉角色，女子高生管狐使者为主角，故事方面保持了历史悠久的和谐传统，如今看来感觉十分古典……"
-date:       "2018-02-14 12:17:10"
-categories: "灵媒"
+date:       "2018-02-14 16:56:47"
 tags:       "Ascension"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001198appline.png"
 ---

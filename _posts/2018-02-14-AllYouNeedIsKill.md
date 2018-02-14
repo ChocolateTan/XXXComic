@@ -3,8 +3,7 @@ layout:     post
 title:      "AllYouNeedIsKill"
 author:     "作者：小畑健  樱坂洋"
 intro:      "被称为“GITAI”的谜之生物袭击地球，士兵桐谷启二加入与GITAI作战的统合防疫军。首次出战就战死的他，由于某种不明原因，竟然重获生命，回到出战前的那天早晨。这种奇怪的现象不断重复，把桐谷卷入诡异的时间轮回。但当他轮回到第158次的时候，在战场上与一位女性重逢……"
-date:       "2018-02-14 12:17:17"
-categories: "其他"
+date:       "2018-02-14 16:56:59"
 tags:       "Kill"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001543appline.png"
 ---

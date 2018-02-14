@@ -3,8 +3,7 @@ layout:     post
 title:      "MUV-LUVALTERNATIVETE"
 author:     "作者：吉宗钢纪    イシガキタカシ"
 intro:      "现在是2001年。在地球外起源种＝BETA的侵略下，人类面临灭亡的危机。为了打破这个局面，人型兵器“战术机”的新型开发是人类的当务之急。这时，日本帝国司卫军的篁唯依中尉领受了一个特别任务。就任地是阿拉斯加·联合国育空基地。与此同时，勇哉·布里奇斯少尉从美国陆军转至极北的大地。就任没多久的勇哉就在实机演习中展示了自己的实力，但唯依却对他怀着不信任感！？"
-date:       "2018-02-14 12:17:16"
-categories: "其他"
+date:       "2018-02-14 16:56:58"
 tags:       "TE"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001132appline.png"
 ---

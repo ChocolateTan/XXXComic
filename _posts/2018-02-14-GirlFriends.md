@@ -3,8 +3,7 @@ layout:     post
 title:      "GirlFriends"
 author:     "作者：森永みるく"
 intro:      "个性认真怕生喜欢看书的真理子。爱打扮天真烂漫的亚希子。因为在补考的那一天被亚希子搭话，真理子开始接触到目前为止所未知的世界。成为「朋友」的两人，变成彼此不可或缺的「挚友」。然而不知不觉间，真理子只要一想到有关亚希子的事就会…"
-date:       "2018-02-14 12:17:16"
-categories: "其他"
+date:       "2018-02-14 16:56:58"
 tags:       "Friends"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001691appline.png"
 ---

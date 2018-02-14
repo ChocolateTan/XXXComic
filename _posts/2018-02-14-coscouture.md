@@ -3,8 +3,7 @@ layout:     post
 title:      "coscouture"
 author:     "作者：上田キク"
 intro:      "四元素魔道裁缝针士，人们这样称呼我。虽然被称为公主，但是其实本人是男人中的男人……"
-date:       "2018-02-14 12:17:18"
-categories: "其他"
+date:       "2018-02-14 16:57:00"
 tags:       "couture"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001888appline.png"
 ---

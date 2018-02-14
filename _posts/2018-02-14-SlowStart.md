@@ -3,8 +3,7 @@ layout:     post
 title:      "SlowStart"
 author:     "作者：笃见唯子"
 intro:      "一之濑花名，16岁，比其他人晚了一年上高中，不过这件事没有告诉同学。虽然别人可能会认为没什么大不了的，但对她来说是个重要的问题。想要追赶上其他人，Slow Start Story!"
-date:       "2018-02-14 12:17:13"
-categories: "其他"
+date:       "2018-02-14 16:56:53"
 tags:       "Start"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003427appline.png"
 ---

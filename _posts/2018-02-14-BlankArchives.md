@@ -3,8 +3,7 @@ layout:     post
 title:      "BlankArchives"
 author:     "作者：交田稜"
 intro:      "认知扩张综合症。 这是一种在无意识中， 连接别人的大脑，读取并改写其认知内容的症状。 意外地取得了这种“异能”的 读心者云雀与消失者来夏， 两人的症状将改写这个世界！"
-date:       "2018-02-14 12:17:15"
-categories: "其他"
+date:       "2018-02-14 16:56:57"
 tags:       "Archives"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003903appline.png"
 ---

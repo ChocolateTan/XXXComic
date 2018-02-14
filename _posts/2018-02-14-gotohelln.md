@@ -3,8 +3,7 @@ layout:     post
 title:      "gotohelln"
 author:     "作者：しいたけ元帅"
 intro:      "地狱的狱卒没有想象中强大啊……猛男美善清正在地狱里血虐一番后不禁感叹，为了挑战号称最强的阎魔王，这货打算开始训练弱鸡海伦……"
-date:       "2018-02-14 12:17:20"
-categories: "其他"
+date:       "2018-02-14 16:57:04"
 tags:       "helln"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001180appline.png"
 ---
@@ -27,8 +26,7 @@ layout:     post
 title:      "gotohelln"
 author:     "作者：しいたけ元帅"
 intro:      "地狱的狱卒没有想象中强大啊……猛男美善清正在地狱里血虐一番后不禁感叹，为了挑战号称最强的阎魔王，这货打算开始训练弱鸡海伦……"
-date:       "2018-02-14 12:17:19"
-categories: "其他"
+date:       "2018-02-14 16:57:03"
 tags:       "helln"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001176appline.png"
 ---

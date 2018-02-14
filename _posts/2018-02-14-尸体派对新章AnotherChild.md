@@ -3,8 +3,7 @@ layout:     post
 title:      "尸体派对新章AnotherChild"
 author:     "作者：祁答院慎 绪方俊辅"
 intro:      "暗恋著青梅竹马．勇马的小环，為了让废校后被迫分隔两地的自己跟勇马，上网找了一个能永远在一起的咒语．「幸福的幸子」。同样暗恋勇马，处处找小环麻烦的绘里奈知道这件事后，故意找来许多同班同学，破坏小环的计画。没想到念完咒语，一阵天崩地裂，发现自己身处在破烂老旧的小学校舍，也因此捲入了充满恐惧的杀戮游戏中…"
-date:       "2018-02-14 12:17:11"
-categories: "派对"
+date:       "2018-02-14 16:56:49"
 tags:       "Child"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004289appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "ReMonster"
 author:     "作者：小早川ハルヨシ     金斩儿狐"
 intro:      "在一天夜里突然被妹妹跟踪杀死的伴杭彼方，突然发现自己已经转生为丑陋的哥布林。他开始运用自己生前的知识要在这个迷之世界生存下去，并伺机开始重整旗鼓。"
-date:       "2018-02-14 12:17:22"
-categories: "其他"
+date:       "2018-02-14 16:57:06"
 tags:       "Monster"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1000873appline.png"
 ---

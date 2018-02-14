@@ -3,8 +3,7 @@ layout:     post
 title:      "CRIMINALE"
 author:     "作者：水色すいみん"
 intro:      "愛×平和×犯罪＝？？ 渴望和平與朋友的孤獨高中生，入學之後卻發現自己來到了一個危機四伏的班級！？ 愛與和平的犯罪愛情喜劇已做好準備，連載開始！"
-date:       "2018-02-14 12:17:18"
-categories: "其他"
+date:       "2018-02-14 16:57:01"
 tags:       "CRIMINALE"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001227appline.png"
 ---

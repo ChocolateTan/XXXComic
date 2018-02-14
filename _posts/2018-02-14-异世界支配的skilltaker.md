@@ -3,8 +3,7 @@ layout:     post
 title:      "异世界支配的skilltaker"
 author:     "作者：笠原巴"
 intro:      "在地球上已经战斗力爆表的家伙穿越到异世界大杀四方……外挂？外挂是用来生成触手调戏那些妹纸的……"
-date:       "2018-02-14 12:17:20"
-categories: "支配"
+date:       "2018-02-14 16:57:04"
 tags:       "skilltaker"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001950appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "重装武器HeavyObjectS"
 author:     "作者：镰池和马  さいとー栄"
 intro:      "重装武器Heavy Object的续篇"
-date:       "2018-02-14 12:17:12"
-categories: "重装"
+date:       "2018-02-14 16:56:50"
 tags:       "S"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002524appline.png"
 ---

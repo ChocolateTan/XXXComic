@@ -3,8 +3,7 @@ layout:     post
 title:      "幽灵王PhantomKing"
 author:     "作者：林达永"
 intro:      "殷成民在11年前发生的永雅村惨案中失去了双亲，与唯一的亲人梅德相依为命过着普通人的生活。然而他却发现自己拥有着一种非同凡人的能力。“幽灵王”曾为保护人类，为人类而战，他将自己的力量留给了在那次惨案中生存下来的“目标生存者”…"
-date:       "2018-02-14 12:17:16"
-categories: "其他"
+date:       "2018-02-14 16:56:57"
 tags:       "King"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003446appline.png"
 ---

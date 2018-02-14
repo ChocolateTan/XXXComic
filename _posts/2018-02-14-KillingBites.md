@@ -3,8 +3,7 @@ layout:     post
 title:      "KillingBites"
 author:     "作者：村田真哉    隅田かすあさ"
 intro:      "兽人，战斗能力远远凌驾于一般人的新人类，会有怎样的战斗力？"
-date:       "2018-02-14 12:17:14"
-categories: "其他"
+date:       "2018-02-14 16:56:54"
 tags:       "Bites"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1000899appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "goodmorningcall"
 author:     "作者：高须贺由枝"
 intro:      "一家人都搬到乡下照顾爷爷的菜绪,因为离国中毕业还有半年,于是决定一个人留下来独自生活。但是由于不良中介公司的欺骗,菜诸竟要与同校的上原久志住在一起……"
-date:       "2018-02-14 12:17:08"
-categories: "其他"
+date:       "2018-02-14 16:56:44"
 tags:       "call"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001633appline.png"
 ---

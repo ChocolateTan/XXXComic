@@ -3,8 +3,7 @@ layout:     post
 title:      "思春期bitterchange"
 author:     "作者：将良"
 intro:      "意外交换身体的男孩女孩，将会发生怎样的事件——？"
-date:       "2018-02-14 12:17:22"
-categories: "其他"
+date:       "2018-02-14 16:57:06"
 tags:       "change"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003067appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "快乐婚礼HappyMarriage"
 author:     "作者：円城寺真纪"
 intro:      "千和有个创业失败还天真地向黑道借钱的老爸，不愿祖母留下的家园被卖掉，又不想被黑道抓去酒店工作的她，成了现代灰姑娘嫁给受到祖父逼迫“以身相许”的北斗。没有爱情仅以利益相结合的两人，要如何突破重重难关认识真正的彼此呢？"
-date:       "2018-02-14 12:17:11"
-categories: "快乐"
+date:       "2018-02-14 16:56:49"
 tags:       "Marriage"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001747appline.png"
 ---

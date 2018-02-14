@@ -3,8 +3,7 @@ layout:     post
 title:      "Prettymax"
 author:     "作者：柴田ヨクサル  苍木雅彦"
 intro:      "只要有钱的话，就算目标是可爱星也不怕啦！"
-date:       "2018-02-14 12:17:19"
-categories: "其他"
+date:       "2018-02-14 16:57:02"
 tags:       "Prettymax"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002621appline.png"
 ---

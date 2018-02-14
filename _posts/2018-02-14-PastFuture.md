@@ -3,8 +3,7 @@ layout:     post
 title:      "PastFuture"
 author:     "作者：高槻ツカサ"
 intro:      "Past Future，一个女装控的少年，一个喜欢哥哥的妹妹。哥哥的女装癖觉醒了！？万众瞩目的新锐漫画家，给你带来可爱的兄妹家庭喜剧。"
-date:       "2018-02-14 12:17:12"
-categories: "其他"
+date:       "2018-02-14 16:56:51"
 tags:       "Future"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004104appline.png"
 ---

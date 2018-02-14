@@ -3,8 +3,7 @@ layout:     post
 title:      "RISINGRYDEEN"
 author:     "作者：福原莲士  初美阳一"
 intro:      "大约半个世纪以前，世界上第一次确定了超能力者的存在。超能力者一个接一个的出现，面对着这种场面，有些人将其当为恶魔，有些人将其当为精灵。当越来越多的超能力者为了自己而使用能力时，在普通人眼里他们已经归为异类……开拓新的世界，焕发多样的光彩，异色异能战斗开始"
-date:       "2018-02-14 12:17:09"
-categories: "其他"
+date:       "2018-02-14 16:56:46"
 tags:       "RYDEEN"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003816appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "CANDY&CIGARETTES"
 author:     "作者：井上智德"
 intro:      "年龄到点退休的平贺雷藏（65岁），等待他的再就业是，超高薪! 严守秘密!! 连生命也得不到保障!!! 迷雾重重的工作，他在“现场”遇到了独自一人的少女，然后被卷入了事件之中。为了给重病的孙子筹集医药费，雷藏挑战的新“工作”是…!?"
-date:       "2018-02-14 12:17:12"
-categories: "其他"
+date:       "2018-02-14 16:56:51"
 tags:       "CIGARETTES"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004102appline.png"
 ---

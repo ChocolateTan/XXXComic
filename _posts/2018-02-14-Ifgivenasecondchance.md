@@ -3,8 +3,7 @@ layout:     post
 title:      "Ifgivenasecondchance"
 author:     "作者：榎木りか"
 intro:      "“听说关于谢礼什么都可以的对吧”——那我就把你的吻偷走啦⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄！厨艺技能零分JKx表面老好人疑似腹黑神社主祭，从微波炉爆炸开始的极度肉食系故事"
-date:       "2018-02-14 12:17:13"
-categories: "其他"
+date:       "2018-02-14 16:56:53"
 tags:       "chance"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003431appline.png"
 ---

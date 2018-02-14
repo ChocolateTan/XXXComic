@@ -3,8 +3,7 @@ layout:     post
 title:      "纯情外宿生（下北泽GLORYDAYS）"
 author:     "作者：大谷二郎"
 intro:      "落榜重考生大野优太追随心爱的女朋友从长野来到东京，入住在从情报杂志上找到位于下北泽的分租公寓“Nutopia”（ぬーとぴあ）。只是除了优太以外的房客都是女生，而且个个年轻性感。最初，优太受到美女们的色相攻击、接连被捉弄，另外，和美女们的分租同居生活还瞒着女朋友，随时都有遭到被误解而与女友分手的危机存在！"
-date:       "2018-02-14 12:17:09"
-categories: "外宿"
+date:       "2018-02-14 16:56:45"
 tags:       "）"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1000768appline.png"
 ---

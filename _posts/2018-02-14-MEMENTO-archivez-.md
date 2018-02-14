@@ -3,8 +3,7 @@ layout:     post
 title:      "MEMENTO-archivez-"
 author:     "作者：南高春告  AXsiZ"
 intro:      "幸福的学院生活，直到那个杀人鬼出现，颠覆了这一切……"
-date:       "2018-02-14 12:17:17"
-categories: "其他"
+date:       "2018-02-14 16:57:00"
 tags:       "-"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004023appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "CrossDays"
 author:     "作者：藤真拓哉 都筑真纪"
 intro:      "相关新情报公开在我们经历了日在校园(School Days)以及日在夏天(Summer Days)后，Overflow社在事隔2年半终于又推出了新系列(小编：由于Cross意思为十字架，以及交叉路口，所以翻译成杂交日，交叉日——都可以——)主角为足利勇气，女一号目前暂时认定为喜连川路夏——故事的时间轴是和School Days重合在一条线上的，可以说是完全2个平行时间的故事——而追加的新看点就是可以从第三人称角度观察伊藤诚和言叶，世界的感情故事。"
-date:       "2018-02-14 12:17:09"
-categories: "其他"
+date:       "2018-02-14 16:56:45"
 tags:       "Days"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1000727appline.png"
 ---

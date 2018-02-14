@@ -3,8 +3,7 @@ layout:     post
 title:      "刀剑神域Progressive"
 author:     "作者：川原砾  比村奇石"
 intro:      "SAO Progressive是SAO的另一部系列，名为《Sword Art Online: Progressive》。Progressive系列是艾因葛郎特篇（简称SAO篇）的补完。"
-date:       "2018-02-14 12:17:08"
-categories: "神域"
+date:       "2018-02-14 16:56:44"
 tags:       "Progressive"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004154appline.png"
 ---

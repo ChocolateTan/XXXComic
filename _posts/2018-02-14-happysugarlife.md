@@ -3,8 +3,7 @@ layout:     post
 title:      "HappySugarLife"
 author:     "作者：键空とみやき"
 intro:      "松坂砂糖有了喜欢的人。 和那位喜欢的人在一起就会产生甜蜜的感情。 这一定就是爱吧。她这么想着。 为了守护这份感情，无论什么事也可以被原谅。 就算欺骗、侵犯、夺取、玩坏也没有关系。 ‘カミヨメ’‘TARI TARI’的作者键空とみやき所描绘的，战栗的纯爱恐怖作。"
-date:       "2018-02-14 12:17:19"
-categories: "其他"
+date:       "2018-02-14 16:57:02"
 tags:       "Life"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003299appline.png"
 ---
@@ -50,8 +49,7 @@ layout:     post
 title:      "happysugarlife"
 author:     "作者：键空とみやき"
 intro:      "松坂砂糖有了喜欢的人。 和那位喜欢的人在一起就会产生甜蜜的感情。 这一定就是爱吧。她这么想着。 为了守护这份感情，无论什么事也可以被原谅。 就算欺骗、侵犯、夺取、玩坏也没有关系。 ‘カミヨメ’‘TARI TARI’的作者键空とみやき所描绘的，战栗的纯爱恐怖作。"
-date:       "2018-02-14 12:17:10"
-categories: "其他"
+date:       "2018-02-14 16:56:47"
 tags:       "life"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002239appline.png"
 ---

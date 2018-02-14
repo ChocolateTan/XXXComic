@@ -3,8 +3,7 @@ layout:     post
 title:      "神曲奏界Polyphonica绯红"
 author:     "作者：榊一郎  绯吕河とも"
 intro:      "以神曲乐士为目标的学生．佛隆，以及拥有强大能力的精灵．克缇卡儿蒂。以“托尔巴斯神曲学院”为舞台，描绘两人从相遇开始的相处及成长，大人气异世界精灵奇幻作品在此开演！"
-date:       "2018-02-14 12:17:19"
-categories: "神曲"
+date:       "2018-02-14 16:57:03"
 tags:       "绯红"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004260appline.png"
 ---

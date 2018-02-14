@@ -3,8 +3,7 @@ layout:     post
 title:      "夜店大师DearGirls"
 author:     "作者：一葵さやか"
 intro:      "这里就是美梦俱乐部吗？手持黄金VIP卡的神秘男子出现在Dream Club，他的身份是……来宣布店铺倒闭的新老板！？为了拯救心爱的Dream Club，全体店员使出浑身解数杀必死……"
-date:       "2018-02-14 12:17:20"
-categories: "大师"
+date:       "2018-02-14 16:57:04"
 tags:       "Girls"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003507appline.png"
 ---

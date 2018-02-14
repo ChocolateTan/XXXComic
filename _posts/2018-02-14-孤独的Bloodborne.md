@@ -3,8 +3,7 @@ layout:     post
 title:      "孤独的Bloodborne"
 author:     "作者：もかぷりん"
 intro:      "在血源世界里的美食家"
-date:       "2018-02-14 12:17:20"
-categories: "其他"
+date:       "2018-02-14 16:57:04"
 tags:       "borne"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002401appline.png"
 ---

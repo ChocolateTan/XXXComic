@@ -3,8 +3,7 @@ layout:     post
 title:      "SALONDIANA"
 author:     "作者：西生まこ"
 intro:      "以“外表最重要”为信条的莉央，在被超~帅气的学弟表白后，立刻交往并KISS了！但时间却在KISS之后倒流回到了前一天！？这难道是因为美甲店帅哥老板下的“禁止和自己不喜欢的男生接吻”的诅咒！？"
-date:       "2018-02-14 12:17:19"
-categories: "其他"
+date:       "2018-02-14 16:57:02"
 tags:       "DIANA"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004595appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "无头骑士异闻录RE;DOLLARS篇"
 author:     "作者：成田良悟  あおぎり"
 intro:      "无头骑士异闻录的RE;DOLLARS篇， 小说第五卷的内容，可以看到很多新角色登场。"
-date:       "2018-02-14 12:17:17"
-categories: "骑士"
+date:       "2018-02-14 16:57:00"
 tags:       "篇"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003271appline.png"
 ---

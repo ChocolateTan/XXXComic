@@ -3,8 +3,7 @@ layout:     post
 title:      "OnlySenseOnline"
 author:     "作者：羽仁苍云   アロハ番長"
 intro:      "我在网游里变成妹了！？在号称“自由选择天赋形成自己独特玩法”的网游中，被意外判定为女性的峻(优)使用“垃圾”天赋成为人生赢家的故事。"
-date:       "2018-02-14 12:17:19"
-categories: "其他"
+date:       "2018-02-14 16:57:02"
 tags:       "Online"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001101appline.png"
 ---

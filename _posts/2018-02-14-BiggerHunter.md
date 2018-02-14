@@ -3,8 +3,7 @@ layout:     post
 title:      "BiggerHunter"
 author:     "作者：优吾"
 intro:      "每隔90天 神就会在我们面前出现一次……然后被赐予了神谕的人，被当做神的眷属一起带走……只是被带走的人，却再也没有回来"
-date:       "2018-02-14 12:17:12"
-categories: "其他"
+date:       "2018-02-14 16:56:51"
 tags:       "Hunter"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001829appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "GoodMorningKiss"
 author:     "作者：高须贺由枝"
 intro:      "Good Morning Kiss是Good Morning Call的续作，内容是菜绪和久志上大学后的故事。"
-date:       "2018-02-14 12:17:18"
-categories: "其他"
+date:       "2018-02-14 16:57:01"
 tags:       "Kiss"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002315appline.png"
 ---

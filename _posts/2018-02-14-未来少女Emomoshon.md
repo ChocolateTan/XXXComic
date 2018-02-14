@@ -3,8 +3,7 @@ layout:     post
 title:      "未来少女Emomoshon"
 author:     "作者：饭田のぎ"
 intro:      "由饭田野木X海东玲二的组合相赠，未来型标志爱情喜剧连载开始！来自未来的女儿用尽各种办法要阻止年轻的废柴老爸的恋爱，究竟是为了什么……"
-date:       "2018-02-14 12:17:22"
-categories: "其他"
+date:       "2018-02-14 16:57:06"
 tags:       "Emomoshon"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003778appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "阿里斯托利亚改国战记GROUNDLESS"
 author:     "作者：影待萤太"
 intro:      "因故失去了家人跟孩子的寡妇苏菲亚,如何成为一个狙击手走上复仇之路,以及达西亚人如何在阿利斯托利亚的血腥内战中生存,充满了写实的枪械描写与致密之班排小规模战术。"
-date:       "2018-02-14 12:17:18"
-categories: "改国"
+date:       "2018-02-14 16:57:02"
 tags:       "GROUNDLESS"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002938appline.png"
 ---

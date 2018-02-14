@@ -3,8 +3,7 @@ layout:     post
 title:      "UnbalanceSchoolLife"
 author:     "作者：むつきつとむ"
 intro:      "女生、女生、女生、女生、女生、女生…前后左右到处都是女生？！明明四周都是女人却不是后宫剧，一个男人学院恋爱喜剧。"
-date:       "2018-02-14 12:17:15"
-categories: "其他"
+date:       "2018-02-14 16:56:56"
 tags:       "Life"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001960appline.png"
 ---

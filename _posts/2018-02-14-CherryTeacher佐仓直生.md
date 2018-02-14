@@ -3,8 +3,7 @@ layout:     post
 title:      "CherryTeacher佐仓直生"
 author:     "作者：立花和三"
 intro:      "情绪高涨女子校园喜剧新连载！！ 热血教师佐仓直生带领下，向最棒班级进发！"
-date:       "2018-02-14 12:17:13"
-categories: "其他"
+date:       "2018-02-14 16:56:52"
 tags:       "直生"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001907appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "TransStar"
 author:     "作者：绪原博绮"
 intro:      "暗恋着的他，居然变身了，我要何去何从……？"
-date:       "2018-02-14 12:17:15"
-categories: "其他"
+date:       "2018-02-14 16:56:55"
 tags:       "TransStar"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002382appline.png"
 ---

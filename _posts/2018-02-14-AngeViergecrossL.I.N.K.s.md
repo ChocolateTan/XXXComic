@@ -3,8 +3,7 @@ layout:     post
 title:      "AngeViergecrossL.I.N.K.s"
 author:     "作者：吉冈榊"
 intro:      "这是以学园都市青兰岛为舞台发生的故事……"
-date:       "2018-02-14 12:17:12"
-categories: "其他"
+date:       "2018-02-14 16:56:51"
 tags:       "K"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001929appline.png"
 ---

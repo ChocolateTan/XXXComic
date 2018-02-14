@@ -3,8 +3,7 @@ layout:     post
 title:      "机动战士高达THUNDERBOLT"
 author:     "作者：太田垣康男"
 intro:      "故事的舞台是在战争中被破坏的基地殖民地、飘荡着大量战舰的残骸的“Thunderbolt宙域”，宙域是对JION公国要塞「A Bao A Qu」的补给道路，为了夺回宙域，地球连邦军和JION公国展开了激烈的战斗。地球连邦军的のイオ・フレミング少尉等人乘坐GM204F，潜入Thunderbolt宙域，向狙击手发起了挑战……这样的故事。"
-date:       "2018-02-14 12:17:18"
-categories: "高达"
+date:       "2018-02-14 16:57:02"
 tags:       "THUNDERBOLT"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001121appline.png"
 ---

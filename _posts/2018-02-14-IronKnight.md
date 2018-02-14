@@ -3,8 +3,7 @@ layout:     post
 title:      "IronKnight"
 author:     "作者：屋宜知宏"
 intro:      "梦想和父亲一样当上一名警察的少年铁兵，在勾玉町的商店街过着平凡的生活；然而某一天，突如其来的意外却将这日常彻底粉碎了……《少年jump》新连载，dark英雄物语开幕"
-date:       "2018-02-14 12:17:21"
-categories: "其他"
+date:       "2018-02-14 16:57:05"
 tags:       "Knight"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003678appline.png"
 ---

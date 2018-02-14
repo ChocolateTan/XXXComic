@@ -3,8 +3,7 @@ layout:     post
 title:      "HUNDREDGAME"
 author:     "作者：久远道义"
 intro:      "某县，馆之原市，我，杉崎伊织，开始担任个大人物的秘书，我要在这一百天之内得到我应该得到的一切，故事的齿轮开始静静转动了……"
-date:       "2018-02-14 12:17:19"
-categories: "其他"
+date:       "2018-02-14 16:57:03"
 tags:       "GAME"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001561appline.png"
 ---

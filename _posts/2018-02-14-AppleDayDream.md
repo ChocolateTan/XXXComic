@@ -3,8 +3,7 @@ layout:     post
 title:      "AppleDayDream"
 author:     "作者：城之内宁宁"
 intro:      "亮色百合，洋服恋爱物语~很有趣的四格漫 “你为什么喜欢我？”“因为你的胸部很有料……”"
-date:       "2018-02-14 12:17:13"
-categories: "其他"
+date:       "2018-02-14 16:56:53"
 tags:       "Dream"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003453appline.png"
 ---

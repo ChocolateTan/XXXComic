@@ -3,8 +3,7 @@ layout:     post
 title:      "BITTERVIRGIN圣母劫"
 author:     "作者：楠桂"
 intro:      "平凡的高中生．诹访大介某天晚上听见了同班同学蓝川雏子在教会中的忏悔…施暴、怀孕、流产…听见文静不起眼的她如此冲击性的告白，大介的心脏不由得冻结——"
-date:       "2018-02-14 12:17:22"
-categories: "其他"
+date:       "2018-02-14 16:57:06"
 tags:       "劫"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003796appline.png"
 ---

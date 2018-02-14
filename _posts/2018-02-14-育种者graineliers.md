@@ -3,8 +3,7 @@ layout:     post
 title:      "育种者graineliers"
 author:     "作者：宝井理人"
 intro:      "宝井理人在GFantasy初次登场！！巨篇幻想新连载堂堂开始！！欢迎在动漫之家观看漫画www.dmzj.com 这是一个存在着「育种者graineliers」的世界，他们创造出蕴藏着各种力量的「种子」。 少年琉卡的人生因某一个「种子」的力量而被彻底玩弄…。"
-date:       "2018-02-14 12:17:18"
-categories: "其他"
+date:       "2018-02-14 16:57:02"
 tags:       "graineliers"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003293appline.png"
 ---

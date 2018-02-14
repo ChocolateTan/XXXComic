@@ -3,8 +3,7 @@ layout:     post
 title:      "bougainvillea"
 author:     "作者：鸣子ハナハル"
 intro:      "高冷模特和跟踪狂小姐之间的小故事"
-date:       "2018-02-14 12:17:18"
-categories: "其他"
+date:       "2018-02-14 16:57:00"
 tags:       "bougainvillea"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001231appline.png"
 ---

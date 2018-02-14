@@ -3,8 +3,7 @@ layout:     post
 title:      "GardenSphere"
 author:     "作者：绀野贤护"
 intro:      "辉耀而美丽的虚幻盆景，年幼的两人，温馨的演奏幻想婚姻曲……"
-date:       "2018-02-14 12:17:11"
-categories: "其他"
+date:       "2018-02-14 16:56:48"
 tags:       "Sphere"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004586appline.png"
 ---

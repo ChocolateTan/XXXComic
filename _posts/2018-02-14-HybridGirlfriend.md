@@ -3,8 +3,7 @@ layout:     post
 title:      "HybridGirlfriend"
 author:     "作者：まる寝子"
 intro:      "新时代TS恋爱物语，俺成了妹子，女朋友却长出了大O？！"
-date:       "2018-02-14 12:17:13"
-categories: "其他"
+date:       "2018-02-14 16:56:53"
 tags:       "Girlfriend"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003462appline.png"
 ---

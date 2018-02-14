@@ -3,8 +3,7 @@ layout:     post
 title:      "重装武器HeavyObject"
 author:     "作者：镰池和马  犬江しんすけ"
 intro:      "以《魔法禁书目录》出道之后大受欢迎的作家鎌池和马全新作品！以近未来为背景，在超大型武器「OBJECT」称霸的地方，所发生的少年与少女的故事。在此体验鎌池和马的科幻世界，有别於著重奇幻的《魔法禁书目录》，新的冒险即将展开！"
-date:       "2018-02-14 12:17:13"
-categories: "重装"
+date:       "2018-02-14 16:56:52"
 tags:       "Object"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002523appline.png"
 ---

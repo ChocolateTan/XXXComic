@@ -3,8 +3,7 @@ layout:     post
 title:      "DOLLSFALL"
 author:     "作者：祁答院慎"
 intro:      "在13岁的生日因失去家人而住进慈爱院女子宿舍的知花冥理，认识了可亲的克劳依老师和有趣的室友路易丝和火绳美美，幸福而平静的生活正在等待着她的到来。"
-date:       "2018-02-14 12:17:17"
-categories: "其他"
+date:       "2018-02-14 16:56:59"
 tags:       "FALL"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003486appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "AngelBeats!天堂之门"
 author:     "作者：浅见百合子"
 intro:      "作为Key社的当家剧本作家、作词家、作曲家的麻枝准，曾创作了「Kanon」「AIR」「CLANNAD」「智代After」「Little Busters!」等催泪大作。前不久公开了他的最新企划「Angel Beats!」，终使这位声名响彻游戏界的大魔王的隐退风波告一段落。在最新一期的「电击G's magazine」(2009年7月号)上发表了「Angel Beats!」决定TV动画化的消息，该作是Key×Aniplex×电击G's magazine共同合作的项目，全13话的TV版动画。由麻枝准亲自担当故事原案、系列构成以及片头片尾歌的作曲，人设是「Little Busters!」的Na-Ga。原本以为大魔王这次的复出企划会是游戏，结果却是动画化的企划，相信这都让很多人出乎意料之外吧。作品的舞台设定在死后的世界，主要登场人物均是死者，战斗要素是其精彩看点之一。"
-date:       "2018-02-14 12:17:14"
-categories: "其他"
+date:       "2018-02-14 16:56:54"
 tags:       "门"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003995appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "Heartofthegirl"
 author:     "作者：奥たまむし"
 intro:      "外形人来攻略地球妹纸了，为了可爱的妹纸们不被奇怪的外星人夺走，还是由我来攻略吧。"
-date:       "2018-02-14 12:17:13"
-categories: "其他"
+date:       "2018-02-14 16:56:51"
 tags:       "girl"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002584appline.png"
 ---

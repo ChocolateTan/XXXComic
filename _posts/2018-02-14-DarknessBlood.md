@@ -3,8 +3,7 @@ layout:     post
 title:      "DarknessBlood"
 author:     "作者：河田雄志  行徒"
 intro:      "一改传统 传统吸血鬼故事，在残酷的表象下是范海辛彻的搞笑故事。"
-date:       "2018-02-14 12:17:08"
-categories: "其他"
+date:       "2018-02-14 16:56:44"
 tags:       "Blood"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004179appline.png"
 ---

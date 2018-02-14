@@ -3,8 +3,7 @@ layout:     post
 title:      "BoyGirlFusion"
 author:     "作者：NO.ゴメス"
 intro:      "男女融合的特别短篇（没有误）。"
-date:       "2018-02-14 12:17:12"
-categories: "其他"
+date:       "2018-02-14 16:56:51"
 tags:       "Fusion"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001934appline.png"
 ---

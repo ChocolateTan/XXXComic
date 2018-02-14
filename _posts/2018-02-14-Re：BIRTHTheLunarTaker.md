@@ -3,8 +3,7 @@ layout:     post
 title:      "Re：BIRTHTheLunarTaker"
 author:     "作者：林达永"
 intro:      "残存下去的条件——死，赌上姐弟两人生命的死亡游戏现在…"
-date:       "2018-02-14 12:17:13"
-categories: "其他"
+date:       "2018-02-14 16:56:53"
 tags:       "Taker"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003441appline.png"
 ---
@@ -79,8 +78,7 @@ layout:     post
 title:      "Re：BIRTHTheLunarTaker"
 author:     "作者：林达永"
 intro:      "残存下去的条件——死，赌上姐弟两人生命的死亡游戏现在…开演！ 男主人公怜治是收养的，和收养家的高三姐姐绫香住在一起，父母长期居住海外工作。 都市里正出现“自杀”连续事件，而此时放学回家的怜治捡到一对手环，接着同时阻止抢劫犯而被杀。 为了活下去，在“狭间之刻”与魔导器（捡到的两个手镯，后变为两把匕首，姐弟一人一把）定下契约而复活。 没想到，在第二天被同班同学牧原叫到楼顶，并展开战斗，不想杀人的他被击败，而此时为了救 怜治的姐姐绫香拿起怜治的武器（匕首）自杀，想要与此定下契约获得力量救怜治····"
-date:       "2018-02-14 12:17:08"
-categories: "其他"
+date:       "2018-02-14 16:56:45"
 tags:       "Taker"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002485appline.png"
 ---

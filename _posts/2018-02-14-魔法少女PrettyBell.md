@@ -3,8 +3,7 @@ layout:     post
 title:      "魔法少女PrettyBell"
 author:     "作者：KAKERU"
 intro:      "意料之外的NEW英雄诞生！！看啊！那既华丽又强韧的肌肉！！ 最近的魔法少女很糟糕系列，同最近的魔法少女漫画一样，是本糟糕漫……"
-date:       "2018-02-14 12:17:10"
-categories: "魔法"
+date:       "2018-02-14 16:56:47"
 tags:       "PrettyBell"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001023appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "UnderOneRoof"
 author:     "作者：藤生"
 intro:      "第一次在外租房的吉田发现房东是个阳光又开朗的大姐姐—— 只不过，她“限定女生”。"
-date:       "2018-02-14 12:17:10"
-categories: "其他"
+date:       "2018-02-14 16:56:47"
 tags:       "Roof"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001149appline.png"
 ---

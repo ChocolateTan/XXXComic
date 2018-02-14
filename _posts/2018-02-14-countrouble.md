@@ -3,8 +3,7 @@ layout:     post
 title:      "countrouble"
 author:     "作者：奈央晃德"
 intro:      "刚上高中的松代耕太，暗恋班上没人敢轻易接近的冰山美人吉泽明乃，原本想将这份情感偷偷藏在心中，没想到……魔女ｏｒ天使（？）降临在他面前，莫名其妙地在他手腕上装了诡异的计时器！自称沙更的女孩，宣称是为了协助耕太恋情开花结果而来，计时器是她「倒数计时」的魔法，只要耕太心跳１０次，他的恋爱就将甜甜蜜蜜……天底下才没有那麼好的事呢！"
-date:       "2018-02-14 12:17:19"
-categories: "其他"
+date:       "2018-02-14 16:57:02"
 tags:       "countrouble"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002768appline.png"
 ---

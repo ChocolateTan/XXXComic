@@ -3,8 +3,7 @@ layout:     post
 title:      "WonderRabbitGirl"
 author:     "作者：广濑ゆい"
 intro:      "为了找到让哥哥意识不明的「犯人」，弟弟毅然化装潜入哥哥的学校，攻略少女的性癖来寻找线索——？！"
-date:       "2018-02-14 12:17:20"
-categories: "其他"
+date:       "2018-02-14 16:57:05"
 tags:       "Girl"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001257appline.png"
 ---

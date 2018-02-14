@@ -3,8 +3,7 @@ layout:     post
 title:      "PrincessTimeplus"
 author:     "作者：Princess Time+plus"
 intro:      "Princess Time+plus"
-date:       "2018-02-14 12:17:15"
-categories: "其他"
+date:       "2018-02-14 16:56:57"
 tags:       "plus"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1000628appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "诗音OFTHEDEAD"
 author:     "作者：室吉隆志"
 intro:      "东海林诗音，15岁（暂定），是个头脑清晰、条理分明，外表绝美出眾的女子高中生！！！ 有幸坐在她邻座的男同学雷见翼，正在犹豫是否要向她告白， 因為她……竟是货真价实的殭尸！！ 超乎现实的搞笑剧情与流行元素，爽朗又带着些许无奈的氛围，交织出一段纯真美好的校园生活故事。 殭尸，也很想谈恋爱！"
-date:       "2018-02-14 12:17:13"
-categories: "其他"
+date:       "2018-02-14 16:56:53"
 tags:       "DEAD"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003471appline.png"
 ---

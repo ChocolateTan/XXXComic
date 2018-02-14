@@ -3,8 +3,7 @@ layout:     post
 title:      "superlovers"
 author:     "作者：阿部美幸"
 intro:      "爱操心的长男、超美型双胞胎、野生系幺子。 SUPER LOVERS 第十八话彩图 SUPER LOVERS 第十八话彩图 被“母亲病危”骗到海外来的高中生海棠晴，在那里突然被告知一位名为零的男孩子“是你的弟弟”……！？不听任何人的话的野生系小孩—零，晴必须倾尽全力去照顾他，而对于零的身世也似乎隐藏着不可告人的秘密。在零好不容易开始亲近自己的时候，一场悲剧也随之降临到晴身上。五年后，和长大的零再次相逢的晴会是……？"
-date:       "2018-02-14 12:17:18"
-categories: "其他"
+date:       "2018-02-14 16:57:00"
 tags:       "lovers"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1000474appline.png"
 ---

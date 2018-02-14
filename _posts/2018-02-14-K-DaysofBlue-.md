@@ -3,8 +3,7 @@ layout:     post
 title:      "K-DaysofBlue-"
 author:     "作者：黑荣悠（黒榮ゆい）"
 intro:      "东京法务局户籍课第四分室——通称《Scepter 4》。欢迎在动漫之家观看漫画www.dmzj.com 以取缔异能者的犯罪为本职。 他们在非工作时间的真实面貌如何呢——？"
-date:       "2018-02-14 12:17:18"
-categories: "其他"
+date:       "2018-02-14 16:57:00"
 tags:       "-"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004274appline.png"
 ---

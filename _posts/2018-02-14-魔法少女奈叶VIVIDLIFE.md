@@ -3,8 +3,7 @@ layout:     post
 title:      "魔法少女奈叶VIVIDLIFE"
 author:     "作者：都筑真纪   ねことうふ（猫豆腐）"
 intro:      "魔法少女VIVID官方四格，讲述了少女们轻松快乐无节操的百合日常"
-date:       "2018-02-14 12:17:11"
-categories: "魔法"
+date:       "2018-02-14 16:56:49"
 tags:       "LIFE"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1002436appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "SHORTCAKECAKE"
 author:     "作者：森下suu"
 intro:      "每天搭乘2小时的公交车去上学的天，并不觉得这样有什麼不好。但在朋友的邀请下，她去寄宿生的宿舍住了一晚，发现寄宿生活似乎也不错的样子…？和各种各样的人相遇、做各种各样的事的青春故事！"
-date:       "2018-02-14 12:17:15"
-categories: "其他"
+date:       "2018-02-14 16:56:55"
 tags:       "CAKE"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003143appline.png"
 ---

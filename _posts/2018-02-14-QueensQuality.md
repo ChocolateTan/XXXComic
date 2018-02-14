@@ -3,8 +3,7 @@ layout:     post
 title:      "QueensQuality"
 author:     "作者：最富恭介"
 intro:      "QQ扫除者续篇，来吧、前往谁也未曾见过的门的另一边！"
-date:       "2018-02-14 12:17:09"
-categories: "其他"
+date:       "2018-02-14 16:56:45"
 tags:       "Quality"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003872appline.png"
 ---

@@ -3,8 +3,7 @@ layout:     post
 title:      "大蜘蛛酱flashback"
 author:     "作者：植芝理一"
 intro:      "迷之彼女作者的新连载。 ​漫画家作者的儿子在父亲死后不断回溯见到父亲眼中的母亲——大蜘蛛酱的学生生活的故事。母控的故事。嗯。"
-date:       "2018-02-14 12:17:11"
-categories: "其他"
+date:       "2018-02-14 16:56:49"
 tags:       "flashback"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003933appline.png"
 ---

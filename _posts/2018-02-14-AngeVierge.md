@@ -3,8 +3,7 @@ layout:     post
 title:      "AngeVierge"
 author:     "作者：rory"
 intro:      "本作是富士见与MediaFactory合作企划的卡片对战游戏！结集了当下人气画师。以青兰岛为舞台，描写因异世界融合而觉醒出异能力的少女们之间的战斗故事。"
-date:       "2018-02-14 12:17:19"
-categories: "其他"
+date:       "2018-02-14 16:57:03"
 tags:       "Vierge"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001943appline.png"
 ---

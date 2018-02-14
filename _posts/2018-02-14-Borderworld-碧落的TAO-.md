@@ -3,8 +3,7 @@ layout:     post
 title:      "Borderworld-碧落的TAO-"
 author:     "作者：木村聪"
 intro:      "讲述在人类将肉体全部舍弃化为数据生存在「zone」的遥远未来，诞生于数据之中的第二代数据化人类·塔欧，与肉身之人类少女相遇的巨弹SF新连载！"
-date:       "2018-02-14 12:17:18"
-categories: "其他"
+date:       "2018-02-14 16:57:00"
 tags:       "-"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004483appline.png"
 ---

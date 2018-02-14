@@ -3,8 +3,7 @@ layout:     post
 title:      "FateHeavensFeel"
 author:     "作者：多人"
 intro:      "游戏Fate/Stay Night的最后一线，间桐樱线。简称HF线(宛若天堂)，该线中亦提到的Heavens Feel 翻译为“天之杯”，是“五大魔法中”的“第三法”。此线路揭示了圣杯战争的本质。也是最为阴暗的线路，此线路中Alter（黑saber）和黑化间桐樱是最大亮点。 ~这是Gilgamesh(英雄王)再被黑圣杯吞噬中与Alter（黑saber）的对话同人~"
-date:       "2018-02-14 12:17:20"
-categories: "其他"
+date:       "2018-02-14 16:57:05"
 tags:       "Feel"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003394appline.png"
 ---

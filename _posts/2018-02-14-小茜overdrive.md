@@ -3,8 +3,7 @@ layout:     post
 title:      "小茜overdrive"
 author:     "作者：河下水希"
 intro:      "但是那是重生后变成的女子——小茜。隆起的胸部、妖艳的内裤……?于是一部超越男女间隔阂的爆笑喜剧诞生了。"
-date:       "2018-02-14 12:17:18"
-categories: "其他"
+date:       "2018-02-14 16:57:00"
 tags:       "overdrive"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004480appline.png"
 ---

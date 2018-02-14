@@ -3,8 +3,7 @@ layout:     post
 title:      "BillionDogs"
 author:     "作者：芹泽直树  金城宗幸"
 intro:      "在拥有高升学率的名门学校一抹学园，担任学生会会长的水沼一缕，在全校学生面前，被副会长火野叫助用刺伤！！副会长叫助的“目的”是什么呢？保住性命的水沼一缕又有什么“秘密计划”呢？原著：金城宗幸(《要听神的话贰》)、漫画：芹泽直树(《麻辣开锁王》)！ 最强组合为您带来的新感觉校园恶汉漫画！"
-date:       "2018-02-14 12:17:18"
-categories: "其他"
+date:       "2018-02-14 16:57:01"
 tags:       "Dogs"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1001765appline.png"
 ---

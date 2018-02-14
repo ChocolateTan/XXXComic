@@ -3,8 +3,7 @@ layout:     post
 title:      "EVA-RETAKE全年龄版"
 author:     "作者：KIMIGABUCHI"
 intro:      "EVA-RETAKE全年龄版漫画已完结 EVA同人里的神作，以明日香和碇真嗣为主线。"
-date:       "2018-02-14 12:17:08"
-categories: "其他"
+date:       "2018-02-14 16:56:44"
 tags:       "版"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004553appline.png"
 ---

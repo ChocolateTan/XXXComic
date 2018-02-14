@@ -3,8 +3,7 @@ layout:     post
 title:      "GrandBlue"
 author:     "作者：井上坚二    吉冈公威"
 intro:      "以上大学为契机寄宿在海边爷爷家的主人公·北原伊织，遇到了绝世美女与散发着青春的学长们。为了寻求无可替代的瞬间，北原伊织挥洒青春。最棒的大学生活，等着你！！"
-date:       "2018-02-14 12:17:19"
-categories: "其他"
+date:       "2018-02-14 16:57:02"
 tags:       "GrandBlue"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1000937appline.png"
 ---

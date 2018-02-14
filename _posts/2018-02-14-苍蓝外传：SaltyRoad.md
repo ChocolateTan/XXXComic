@@ -3,8 +3,7 @@ layout:     post
 title:      "苍蓝外传：SaltyRoad"
 author:     "作者：Ark Performance  TALI"
 intro:      "苍蓝钢铁的琶音外传！战舰高雄波澜万丈的学园生活！"
-date:       "2018-02-14 12:17:12"
-categories: "苍蓝"
+date:       "2018-02-14 16:56:50"
 tags:       "Road"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003015appline.png"
 ---

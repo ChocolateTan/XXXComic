@@ -3,8 +3,7 @@ layout:     post
 title:      "InnocentDevil"
 author:     "作者：宗一郎  中村基"
 intro:      "超缺乏表达能力的犯罪学伪萝莉老师与黑长直无心少女的寻心之旅。杀人之人所持有的感情，到底是怎样的呢？"
-date:       "2018-02-14 12:17:18"
-categories: "其他"
+date:       "2018-02-14 16:57:01"
 tags:       "Devil"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1003298appline.png"
 ---

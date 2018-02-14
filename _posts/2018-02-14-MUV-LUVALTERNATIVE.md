@@ -3,8 +3,7 @@ layout:     post
 title:      "MUV-LUVALTERNATIVE"
 author:     "作者：莳岛梓  アージュ"
 intro:      "身为普通高中生的男主角白银武一觉醒来，发现自己进入了一个平行世界。在这个平行世界裡，地球人数十年来都与带有敌意的外星生命体「BETA」苦战著；而他就置身於因此而荒废的柊町（主角家乡，位於日本横滨）。在这个一切都改变了的世界重新出发的武加入了联合国军，并参与了对抗BETA的最后手段，拯救人类的「ALTERNATIVE4」计划。为此他成为联合国军卫士（巨大人型兵器「战术机」的驾驶员）并和伙伴们一起努力。但到了12月24日，人类放弃了最后的奋斗而啟动了放弃地球的「ALTERNATIVE5」计划。经过无限的(UNLIMITED)轮回之后,白银武终于进入了要作出抉择(Alternative)的世界!"
-date:       "2018-02-14 12:17:08"
-categories: "其他"
+date:       "2018-02-14 16:56:45"
 tags:       ")"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1004088appline.png"
 ---

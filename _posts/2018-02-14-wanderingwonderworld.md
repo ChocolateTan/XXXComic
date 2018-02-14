@@ -3,8 +3,7 @@ layout:     post
 title:      "wanderingwonderworld"
 author:     "作者：PEACH-PIT"
 intro:      "蔷薇少女作者PEACH-PIT热血新连载！游乐园的退魔王道新作！"
-date:       "2018-02-14 12:17:11"
-categories: "其他"
+date:       "2018-02-14 16:56:48"
 tags:       "world"
 image:      "http://smp.yoedge.com/smp-app/resource/viewImage/1000347appline.png"
 ---
